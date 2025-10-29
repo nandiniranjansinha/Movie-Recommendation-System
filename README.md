@@ -74,6 +74,3 @@ User/Movie IDs → Embedding Layers → Matrix Factorization → Rating Predicti
 3. **Hybrid Approach:** Combines user preferences with content similarity
 4. **Scalable Architecture:** Efficient embedding-based computation
 
-
-## 📄 License
-MIT License
